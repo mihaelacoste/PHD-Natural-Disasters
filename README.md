@@ -14,7 +14,8 @@ To view the co-occurrence network of hashtags, the files alluvioneemiliaromagna.
 # Python general scripts
 The PHD.ipynb file contains Python scripts used for sentiment analysis, entity identification (NER), word prevalence, various tests
 
-
+# Classes of visual objects using ImageNet
+The Imagenet_classes.ipynb file contains the source code from the https://cv.gluon.ai/build/examples_classification/demo_imagenet.html website adapted for research to identify visual object classes in photographs 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,3 +31,6 @@ Pentru vizualizarea rețelei de co-ocurență a hashtag-urilor, fișierele alluv
 
 # Script-uri generale Python
 Fișierul PHD.ipynb conține script-uri Python utilizate pentru analiza sentimentelor, identificarea entitaților (NER), prevalența cuvintelor, diferite teste
+
+# Clase de obiecte vizuale folosind ImageNet
+Fișierul Imagenet_classes.ipynb conține codul sursă provenit de pe website-ul https://cv.gluon.ai/build/examples_classification/demo_imagenet.html adaptat cercetării pentru identificarea claselor de obiecte vizuale din fotografii 
