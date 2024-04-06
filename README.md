@@ -4,8 +4,8 @@
 Code for PhD Thesis: .................
 
 
-
-
+# GBQ Queries
+The GBQ_Queries_Doctorate.ipynb file contains queries performed on the database to identify prolific users, locations, most frequently used hashtags, co-occurring hashtags, caption length and engagement metrics
 
 # Hashtag co-occurrence
 To view the co-occurrence network of hashtags, the files alluvioneemiliaromagna.json, australianwildfires.json and earthquaketurkey.json should be opened in https://app.vosviewer.com/ in the top right corner under Open
@@ -19,6 +19,8 @@ To view the co-occurrence network of hashtags, the files alluvioneemiliaromagna.
 # PHD-Natural-Disasters
 Codul pentru teza de doctorat cu titlul: ...........
 
+# Query-uri GBQ
+Fisierul GBQ_Queries_Doctorat.ipynb conține interogările realizate asupra bazei de date pentru a identifica utilizatorii prolifici, locațiile, hashtag-urile utilizate cel mai frecvent, hashtag-urile co-ocurente, lungimea caption-urilor și metrici de engagement
 
 # Co-ocurența hashtag-urilor
 Pentru vizualizarea rețelei de co-ocurență a hashtag-urilor, fișierele alluvioneemiliaromagna.json, australianwildfires.json și earthquaketurkey.json trebuie deschise în https://app.vosviewer.com/ din colțul dreapta sus de la secțiunea Open
