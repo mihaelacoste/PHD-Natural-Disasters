@@ -17,6 +17,15 @@ The PHD.ipynb file contains Python scripts used for sentiment analysis, entity i
 # Classes of visual objects using ImageNet
 The Imagenet_classes.ipynb file contains the source code from the https://cv.gluon.ai/build/examples_classification/demo_imagenet.html website adapted for research to identify visual object classes in photographs 
 
+# Classifying context in photographs and identifying composition rules
+The file Model_Scene_Composition.ipynb contains the steps performed to train CNN models used in scene classification and composition rule identification. The annotated images come from https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB/blob/main/README.md 
+
+
+
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # PHD-Natural-Disasters
@@ -34,3 +43,6 @@ Fișierul PHD.ipynb conține script-uri Python utilizate pentru analiza sentimen
 
 # Clase de obiecte vizuale folosind ImageNet
 Fișierul Imagenet_classes.ipynb conține codul sursă provenit de pe website-ul https://cv.gluon.ai/build/examples_classification/demo_imagenet.html adaptat cercetării pentru identificarea claselor de obiecte vizuale din fotografii 
+
+# Clasificarea contextului din fotografii și identificarea regulilor de compoziție
+Fișierul Model_Scene_Composition.ipynb conține pașii efectuați pentru antrenarea modelelor CNN utilizate în clasificarea contextelor imaginilor (scene classification) și în identificarea regulilor de compoziție. Imaginile adnotate provin de la https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB/blob/main/README.md 
