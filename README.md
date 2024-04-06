@@ -1,4 +1,4 @@
-# Romanian below
+
 # Author: Mihaela-Alina Coste, FSPAC, Babeș-Bolyai University, Cluj-Napoca, 2024.
 # PHD-Natural-Disasters project
 Code for PhD Thesis: .................
