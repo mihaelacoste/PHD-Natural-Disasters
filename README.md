@@ -19,7 +19,6 @@ The Imagenet_classes.ipynb file contains the source code from the https://cv.glu
 
 # Classifying context in photographs and identifying composition rules
 The file Model_Scene_Composition.ipynb contains the steps performed to train CNN models used in scene classification and composition rule identification. The annotated images come from https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB/blob/main/README.md 
-Models can be accessed and used in future research: model_composition_elements.h5 and model_scene_v2.h5
 
 
 
@@ -46,4 +45,3 @@ Fișierul Imagenet_classes.ipynb conține codul sursă provenit de pe website-ul
 
 # Clasificarea contextului din fotografii și identificarea regulilor de compoziție
 Fișierul Model_Scene_Composition.ipynb conține pașii efectuați pentru antrenarea modelelor CNN utilizate în clasificarea contextelor imaginilor (scene classification) și în identificarea regulilor de compoziție. Imaginile adnotate provin de la https://github.com/bcmi/Image-Composition-Assessment-Dataset-CADB/blob/main/README.md
-Modelele pot fi accesate si folosite în cercetări viitoare: model_composition_elements.h5 și model_scene_v2.h5
