@@ -11,6 +11,8 @@ The GBQ_Queries_Doctorate.ipynb file contains queries performed on the database 
 To view the co-occurrence network of hashtags, the files alluvioneemiliaromagna.json, australianwildfires.json and earthquaketurkey.json should be opened in https://app.vosviewer.com/ in the top right corner under Open
 ![image](https://github.com/mihaelacoste/PHD-Natural-Disasters/assets/157045228/d48d9a58-d8aa-4416-a666-c7c169d89d1a)
 
+# Python general scripts
+The PHD.ipynb file contains Python scripts used for sentiment analysis, entity identification (NER), word prevalence, various tests
 
 
 
@@ -25,3 +27,6 @@ Fisierul GBQ_Queries_Doctorat.ipynb conține interogările realizate asupra baze
 # Co-ocurența hashtag-urilor
 Pentru vizualizarea rețelei de co-ocurență a hashtag-urilor, fișierele alluvioneemiliaromagna.json, australianwildfires.json și earthquaketurkey.json trebuie deschise în https://app.vosviewer.com/ din colțul dreapta sus de la secțiunea Open
 ![image](https://github.com/mihaelacoste/PHD-Natural-Disasters/assets/157045228/0c6a6a2c-7ae2-4436-9e26-1a4e3e0d9450)
+
+# Script-uri generale Python
+Fișierul PHD.ipynb conține script-uri Python utilizate pentru analiza sentimentelor, identificarea entitaților (NER), prevalența cuvintelor, diferite teste
