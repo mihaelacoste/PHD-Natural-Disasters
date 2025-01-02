@@ -1,8 +1,9 @@
 
 # Author: Mihaela-Alina Coste, FSPAC, Babeș-Bolyai University, Cluj-Napoca, 2024.
 # PHD-Natural-Disasters project
-Code for PhD Thesis: .................
-
+Code for PhD Thesis: 
+Catastrofe naturale reflectate în social media. Analiza multimodală a conținuturilor Instagram: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (ro)
+Natural disasters reflected in social media. Multimodal analysis of Instagram content: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (en)
 
 # GBQ Queries
 The GBQ_Queries_Doctorate.ipynb file contains queries performed on the database to identify prolific users, locations, most frequently used hashtags, co-occurring hashtags, caption length and engagement metrics
@@ -28,7 +29,9 @@ The file Model_Scene_Composition.ipynb contains the steps performed to train CNN
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # PHD-Natural-Disasters
-Codul pentru teza de doctorat cu titlul: ...........
+Codul pentru teza de doctorat cu titlul: 
+Catastrofe naturale reflectate în social media. Analiza multimodală a conținuturilor Instagram: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (ro)
+Natural disasters reflected in social media. Multimodal analysis of Instagram content: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (en)
 
 # Query-uri GBQ
 Fisierul GBQ_Queries_Doctorat.ipynb conține interogările realizate asupra bazei de date pentru a identifica utilizatorii prolifici, locațiile, hashtag-urile utilizate cel mai frecvent, hashtag-urile co-ocurente, lungimea caption-urilor și metrici de engagement
