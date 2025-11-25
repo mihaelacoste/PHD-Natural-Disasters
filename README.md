@@ -6,6 +6,7 @@
 
 Code for PhD Thesis: 
 Catastrofe naturale reflectate în social media. Analiza multimodală a conținuturilor Instagram: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (ro)
+
 Natural disasters reflected in social media. Multimodal analysis of Instagram content: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (en)
 
 # GBQ Queries
