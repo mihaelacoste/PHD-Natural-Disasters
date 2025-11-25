@@ -1,6 +1,9 @@
 
 # Author: Mihaela-Alina Coste, FSPAC, Babeș-Bolyai University, Cluj-Napoca, 2024.
-# PHD-Natural-Disasters project
+# Defended on 18.07.2024.
+# Grade: Magna Cum Laude
+
+
 Code for PhD Thesis: 
 Catastrofe naturale reflectate în social media. Analiza multimodală a conținuturilor Instagram: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (ro)
 Natural disasters reflected in social media. Multimodal analysis of Instagram content: #australianwildfires, #earthquaketurkey, #alluvioneemiliaromagna (en)
